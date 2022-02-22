@@ -32,6 +32,11 @@ W.I.P
 
 # Conclusión
 
+# Team
+
+Jassen Cristian Castillo Espinoza
+Juan Sebastian Calle Loaiza
+
 # Template from
 
 https://github.com/buritica/mgt/blob/master/es/template-de-rfcs.md
