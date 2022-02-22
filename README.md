@@ -4,17 +4,34 @@ El proceso de reserva comienza desde la PWA* realizando una solicitud de habitac
 
 # Motivación
 
-Implementar el flujo de 
+Definir flujo de agendamiento para los clientes al ingresar a la web
 
 # Propuesta de implementación
 
 ![alt text](flowDiagram.png "Title")
 
 # Métricas
+
+W.I.P
+
 # Riesgos e inconvenientes
+
+W.I.P
+
 # Alternativas
+
+W.I.P
+
 # Impacto potencial y dependencias
+
+W.I.P
+
 # Preguntas sin resolver
+
+W.I.P
+
 # Conclusión
+
+# Template from
 
 https://github.com/buritica/mgt/blob/master/es/template-de-rfcs.md
